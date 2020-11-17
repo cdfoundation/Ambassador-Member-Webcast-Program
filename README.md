@@ -37,17 +37,17 @@ To choose a webinar date, go to the webinar calendar to view the available dates
 - Our audience spans from developers, architects, CIOs, and CTOs. Topics should be tailored for which of those audiences you're trying to target.
 - We are emphasizing SEO optimization this year to drive more registrations and views after the fact, so please take some extra time to make sure your abstract is highlighting important keywords. We'll be making suggestions as well.
 - Recommended Topics: 
--- Continuous Delivery
--- Continuous Integration
--- Interoperability
--- MLOps
--- DevSecOps
--- Pipeline Orchestration
--- Configuration and Library Management
--- Container Build and Registry
--- Continuous Automation (Test and Release)
--- Observability and monitoring
--- Kubernetes and Infrastructure 
+  - Continuous Delivery
+  - Continuous Integration
+  - Interoperability
+  - MLOps
+  - DevSecOps
+  - Pipeline Orchestration
+  - Configuration and Library Management
+  - Container Build and Registry
+  - Continuous Automation (Test and Release)
+  - Observability and monitoring
+  - Kubernetes and Infrastructure 
 ### Webinar Checklist
 1 weeks beforehand (social media promotion)
 * Title
@@ -69,7 +69,7 @@ To choose a webinar date, go to the webinar calendar to view the available dates
 - The webinar is added to the CDF webinar page.
 - CDF promotes registration links for webinars via email, CDF and monthly newsletters, Twitter, and LinkedIn.
 - Our most successful webinars are when the presenting company helps promote in addition to CDF promotion. We are often able to double our attendance in these cases.
--All webinars are uploaded to the CDF Youtube under the playlist: [CDF Webinars](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9RodTXtnbAg42gvuLDvyFtb).
+- All webinars are uploaded to the CDF Youtube under the playlist: [CDF Webinars](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9RodTXtnbAg42gvuLDvyFtb).
 ### Webinar: Presentations
 - 1 week prior to your webinar, send your webinar presentation to the webinar PM. All presentations must be reviewed prior to the webinar going live. 
 ### Webinar Moderator
@@ -80,7 +80,6 @@ The moderator is responsible for covering the housekeeping items and helping the
 - Live Webinar: Wednesday 10am - 12pm Pacific Time, and Thursday 9am - 11am Pacific Time.
 - Typical timing of the webinar - approximately 5 minute introduction, 45 minute presentation, 10 minutes of Q&A
 - CDF staff will help moderate (introduction, feeding questions to the presenter)
-- Webinar Platform: Zoom
 ### Summary
 Any questions on the webinar program, email [jsalinas@cd.foundation](jsalinas@cd.foundation). 
 ### Webinar Platform
