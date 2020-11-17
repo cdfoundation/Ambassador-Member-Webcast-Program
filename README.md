@@ -59,9 +59,8 @@ To choose a webinar date, go to the webinar calendar to view the available dates
 * Bio
 * Email addresses for all speakers / panelists
 * Email all these details to [jsalinas@cd.foundation](jsalinas@cd.foundation)
-\
 #### 1 day of
-* Webinar presentation slides are due! Enter them in the share drive. 
+* Webinar presentation slides are due! 
 * If you would like a live walkthrough, it’s scheduled upon request.
 * All deliverables should be sent to [Webinar](jsalinas@cd.foundation).
 ### Webinar Promotion & Prep Details
