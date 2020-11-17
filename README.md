@@ -1,4 +1,4 @@
-# Ambassador-Member-Webinar-Program
+# Community Ambassador & Member Webinar Program
 ## CDF Webinar Program Guidelines
 - [Calendly Scheduling Link for recording](https://calendly.com/cdfoundation/cdf-member-webinar?month=2020-11)
 - [Submission Form](https://cd.foundation/webinar-submission-form/) 
