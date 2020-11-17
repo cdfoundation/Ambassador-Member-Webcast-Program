@@ -49,7 +49,7 @@ To choose a webinar date, go to the webinar calendar to view the available dates
   - Observability and monitoring
   - Kubernetes and Infrastructure 
 ### Webinar Checklist
-1 weeks beforehand (social media promotion)
+#### 1 weeks beforehand (social media promotion)
 * Title
 * Abstract
 * Speaker Information
@@ -60,7 +60,7 @@ To choose a webinar date, go to the webinar calendar to view the available dates
 * Email addresses for all speakers / panelists
 * Email all these details to [jsalinas@cd.foundation](jsalinas@cd.foundation)
 \
-1 day of
+#### 1 day of
 * Webinar presentation slides are due! Enter them in the share drive. 
 * If you would like a live walkthrough, it’s scheduled upon request.
 * All deliverables should be sent to [Webinar](jsalinas@cd.foundation).
