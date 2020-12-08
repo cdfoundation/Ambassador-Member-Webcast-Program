@@ -6,12 +6,12 @@
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9RodTXtnbAg42gvuLDvyFtb)
 - [CDF Webcast page](https://cd.foundation/webinars/) 
 ### Overview
-CDF webcasts provide a cost-effective way to educate the community about trends and open source CI/CD technologies. Webinars are offered to members, CDF incubating and graduated projects, CDF Ambassadors, and CDF SIGs.
+CDF webcasts provide a cost-effective way to educate the community about trends and open source CI/CD technologies. Webcasts are offered to members, CDF incubating and graduated projects, CDF Ambassadors, and CDF SIGs.
 Please note: We are unable to share leads due to LF privacy policy.
 ### CDF’s Webcast Program Name: 
 - CDF Community Ambassador & Member Webcast Series
 ### Webcast day and time
-- English language webinars are scheduled every Wednesday 10am - 12pm Pacific Time, and Thursday 9am - 11am Pacific Time.
+- English language webcasts are scheduled every Wednesday 10am - 12pm Pacific Time, and Thursday 9am - 11am Pacific Time.
 ### Who can host a webcast
 - Premier can host 2 webcast per quarter, based on availability.
 - General and End User can host 1 webcast per quarter, based on availability.
@@ -19,12 +19,12 @@ Please note: We are unable to share leads due to LF privacy policy.
 - Incubating projects can host 1 webcast per quarter, based on availability
 - Special Interest Groups can host 1 webcast per quarter, based on availability
 - CDF Ambassadors can hold a webcast as it fits their schedule, based on availability.
-- CDF Member webinars will have "Member webcast" preceding their webcast title.
-- CDF project webinars will have "Project webcast" preceding their webcast title.
-- CDF Ambassador webinars will have "Ambassador webcast" preceding their webcast title.
-- CDF SIG webinars will have "SIG webcast" preceding their webcast title.
+- CDF Member webcasts will have "Member webcast" preceding their webcast title.
+- CDF project webcasts will have "Project webcast" preceding their webcast title.
+- CDF Ambassador webcasts will have "Ambassador webcast" preceding their webcast title.
+- CDF SIG webcasts will have "SIG webcast" preceding their webcast title.
 ### Webcast content guidelines
-- The simplest guideline is that webinar topics should be comparable to what would be accepted in a CD Summit talk.
+- The simplest guideline is that webcast topics should be comparable to what would be accepted in a CD Summit talk.
 - No straight product pitches. It is okay to do a comparison of part of the landscape (e.g., storage), but webinars should not be promotional.
 - Any platforms, tools, or technologies you are describing must be open source
 ### Webcast Calendar
