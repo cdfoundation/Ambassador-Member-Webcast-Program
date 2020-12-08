@@ -2,9 +2,9 @@
 ## CDF Webcast Program Guidelines
 - [Calendly Scheduling Link for recording](https://calendly.com/cdfoundation/cdf-member-webinar?month=2020-11)
 - [Submission Form](https://cd.foundation/webinar-submission-form/) 
-- [CDF Webinar Template](https://docs.google.com/presentation/d/1zxYQppGAKRUHt1i-TDd0d7pGfccMWRx6EodXDBNoAG0/edit#slide=id.p)
+- [CDF Webcast Template](https://docs.google.com/presentation/d/1zxYQppGAKRUHt1i-TDd0d7pGfccMWRx6EodXDBNoAG0/edit#slide=id.p)
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9RodTXtnbAg42gvuLDvyFtb)
-- [CDF Webinar page](https://cd.foundation/webinars/) 
+- [CDF Webcast page](https://cd.foundation/webinars/) 
 ### Overview
 CDF webcasts provide a cost-effective way to educate the community about trends and open source CI/CD technologies. Webinars are offered to members, CDF incubating and graduated projects, CDF Ambassadors, and CDF SIGs.
 Please note: We are unable to share leads due to LF privacy policy.
@@ -19,10 +19,10 @@ Please note: We are unable to share leads due to LF privacy policy.
 - Incubating projects can host 1 webcast per quarter, based on availability
 - Special Interest Groups can host 1 webcast per quarter, based on availability
 - CDF Ambassadors can hold a webcast as it fits their schedule, based on availability.
-- CDF Member webinars will have "Member webcast" preceding their webinar title.
-- CDF project webinars will have "Project webcast" preceding their webinar title.
-- CDF Ambassador webinars will have "Ambassador webcast" preceding their webinar title.
-- CDF SIG webinars will have "SIG webcast" preceding their webinar title.
+- CDF Member webinars will have "Member webcast" preceding their webcast title.
+- CDF project webinars will have "Project webcast" preceding their webcast title.
+- CDF Ambassador webinars will have "Ambassador webcast" preceding their webcast title.
+- CDF SIG webinars will have "SIG webcast" preceding their webcast title.
 ### Webcast content guidelines
 - The simplest guideline is that webinar topics should be comparable to what would be accepted in a CD Summit talk.
 - No straight product pitches. It is okay to do a comparison of part of the landscape (e.g., storage), but webinars should not be promotional.
@@ -68,7 +68,7 @@ To choose a webcast date, go to the webinar calendar to view the available dates
 - The webcast is added to the CDF webcast page.
 - CDF promotes registration links for webcast via email, CDF and monthly newsletters, Twitter, and LinkedIn.
 - Our most successful webcast are when the presenting company helps promote in addition to CDF promotion. We are often able to double our attendance in these cases.
-- All webcast are uploaded to the CDF Youtube under the playlist: [CDF Webinars](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9RodTXtnbAg42gvuLDvyFtb).
+- All webcast are uploaded to the CDF Youtube under the playlist: [CDF Webcast](https://www.youtube.com/playlist?list=PL2KXbZ9-EY9RodTXtnbAg42gvuLDvyFtb).
 ### Webcast: Presentations
 - 1 week prior to your webcast, send your webcast presentation to the webcast PM. All presentations must be reviewed prior to the webcast going live. 
 ### Webcast Moderator
