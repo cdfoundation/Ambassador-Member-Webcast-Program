@@ -25,12 +25,12 @@ Please note: We are unable to share leads due to LF privacy policy.
 - CDF SIG webcasts will have "SIG webcast" preceding their webcast title.
 ### Webcast content guidelines
 - The simplest guideline is that webcast topics should be comparable to what would be accepted in a CD Summit talk.
-- No straight product pitches. It is okay to do a comparison of part of the landscape (e.g., storage), but webinars should not be promotional.
+- No straight product pitches. It is okay to do a comparison of part of the landscape (e.g., storage), but webcasts should not be promotional.
 - Any platforms, tools, or technologies you are describing must be open source
 ### Webcast Calendar
-The webcast calendar via calendly is available for a 60 rolling day period. To schedule the webinar recording please review the public calendar first then set up a time through calendly. 
+The webcast calendar via calendly is available for a 60 rolling day period. To schedule the webcasts recording please review the public calendar first then set up a time through calendly. 
 \
-To choose a webcast date, go to the webinar calendar to view the available dates and times. Choose your preferred date and time. You will receive a calendar invite automatically via Calendly with zoom link details. 
+To choose a webcast date, go to the webcast calendar to view the available dates and times. Choose your preferred date and time. You will receive a calendar invite automatically via Calendly with zoom link details. 
 ### How to pick a topic
 - The purpose of the webcasts is to educate the community and align your business with important thought-leadership topics.
 - The audience is interested in technical demos that help them solve problems and want to be able to ask your expert questions.
